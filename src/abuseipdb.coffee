@@ -11,7 +11,7 @@
 #   hubot abuse <IP> - Search AbuseIPDB for any information about the IP
 #
 # Author:
-#   Updated by Igor Antunes - @Darigazz1984
+#   Updated by Igor Antunes - @darigazz1984
 
 ABUSEIPDB_API_KEY = process.env.ABUSEIPDB_API_KEY
 

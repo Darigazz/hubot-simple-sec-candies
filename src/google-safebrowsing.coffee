@@ -12,7 +12,7 @@
 #
 # Author:
 #   A. Gianotto - @snipe
-#   Updated by Igor Antunes - @Darigazz1984 
+#   Updated by Igor Antunes - @darigazz1984 
 
 GOOGLE_SAFEBROWSING_API_KEY = process.env.GOOGLE_SAFEBROWSING_API_KEY
 

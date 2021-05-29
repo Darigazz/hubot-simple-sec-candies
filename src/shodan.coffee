@@ -13,7 +13,7 @@
 #
 # Author:
 #   Scott J Roberts - @sroberts
-#   Updated by Igor Antunes - @Darigazz1984
+#   Updated by Igor Antunes - @darigazz1984
 
 SHODAN_API_KEY = process.env.SHODAN_API_KEY
 
