@@ -8,7 +8,7 @@
 #   IPGEOLOCATION_API_KEY - Get an account at: https://ipgeolocation.io/
 #
 # Commands:
-#   hubot geo <ip> - Gets location associated with an IP
+#   hubot geol <ip> - Gets location associated with an IP
 #
 # Author:
 #   Igor Antunes - @darigazz1984
