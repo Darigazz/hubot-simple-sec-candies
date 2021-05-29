@@ -1,7 +1,5 @@
-# THIS IS AN UPDATED CODE OF https://github.com/sroberts/hubot-vtr-scripts
-
-# NOT YET ON NPM!! DO NOT USE FOR NOW. README.md under CONSTRUCTION
-
+# This is an updated code to https://github.com/sroberts/hubot-vtr-scripts
+# I take only credit for updating the code and adding the AbusdeIPDB script
 
 # hubot-simple-sec-candies
 
