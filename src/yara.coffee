@@ -11,7 +11,7 @@
 #   hubot yara [RULENAME] [CATEGORY] [CONDITION] [COMMA SEPARATED IOCs] - Generates simple Yara rule.
 #
 # Author:
-#   Igor Antunes - @Darigazz1984
+#   Igor Antunes - @darigazz1984
 
 get_date = () ->
    t = new Date

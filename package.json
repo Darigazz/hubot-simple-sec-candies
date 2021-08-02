@@ -1,16 +1,19 @@
 {
   "name": "hubot-simple-sec-candies",
   "description": "Simple scripts to gather information",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "author": "Igor Antunes <igor.antunes1984@gmail.com>",
   "license": "MIT",
-  "keywords": "hubot, hubot-scripts",
+  "keywords": [
+    "hubot",
+    "hubot-scripts"
+  ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-simple-sec-candies.git"
+    "url": "git://github.com/Darigazz/hubot-simple-sec-candies.git"
   },
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-simple-sec-candies/issues"
+    "url": "https://github.com/Darigazz/hubot-simple-sec-candies/issues"
   },
   "dependencies": {},
   "peerDependencies": {
@@ -34,5 +37,9 @@
   "main": "index.coffee",
   "scripts": {
     "test": "grunt test"
+  },
+  "homepage": "https://github.com/Darigazz/hubot-simple-sec-candies#readme",
+  "directories": {
+    "test": "test"
   }
 }
