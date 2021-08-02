@@ -13,7 +13,7 @@
 # Author:
 #   Scott J Roberts - @sroberts
 
-api_url = "http://api.hackertarget.com"
+api_url = "https://api.hackertarget.com"
 
 module.exports = (robot) ->
   robot.respond /reverse dns (.*)/i, (msg) ->
