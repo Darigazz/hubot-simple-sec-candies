@@ -1,7 +1,7 @@
 {
   "name": "hubot-simple-sec-candies",
   "description": "Simple scripts to gather information",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "author": "Igor Antunes <igor.antunes1984@gmail.com>",
   "license": "MIT",
   "keywords": [
